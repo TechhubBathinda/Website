@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Tech Hub Bathinda – Learn coding, Python, Java, C/C++, web development, and data science in Bathinda. Project-based training with placement support.">
+<meta name="keywords" content="Tech Hub Bathinda, Coding Institute Bathinda, Learn Python Bathinda, Java Classes Bathinda, C/C++ Training Bathinda, Web Development Bathinda, Data Science Bathinda">
+<title>Tech Hub Bathinda – Coding & IT Training in Bathinda</title>
+
+<!-- Open Graph / Facebook -->
+<meta property="og:title" content="Tech Hub Bathinda – Learn Coding in Bathinda">
+<meta property="og:description" content="Join Tech Hub Bathinda to learn Python, Java, C/C++, Web Development & Data Science with hands-on projects and placement support.">
+<meta property="og:image" content="https://techhubbathinda.netlify.app/images/banner.jpg">
+<meta property="og:url" content="https://techhubbathinda.netlify.app/bathinda">
+<meta property="og:type" content="website">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Tech Hub Bathinda – Learn Coding in Bathinda">
+<meta name="twitter:description" content="Join Tech Hub Bathinda to learn Python, Java, C/C++, Web Development & Data Science with hands-on projects and placement support.">
+<meta name="twitter:image" content="https://techhubbathinda.netlify.app/images/banner.jpg">
+
+<!-- JSON-LD Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "Tech Hub Bathinda",
+  "url": "https://techhubbathinda.netlify.app",
+  "logo": "https://techhubbathinda.netlify.app/images/logo.png",
+  "description": "Learn coding, Python, Java, C/C++, web development, and data science in Bathinda. Hands-on, project-based training with placement support.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Opposite PUDA Market, 100 Ft. Road",
+    "addressLocality": "Bathinda",
+    "addressRegion": "Punjab",
+    "postalCode": "151001",
+    "addressCountry": "IN"
+  },
+  "geo": { "@type": "GeoCoordinates", "latitude": 30.212345, "longitude": 74.951234 },
+  "telephone": "+91-XXXXXXXXXX",
+  "email": "admin@techhubbathinda.onmicrosoft.com",
+  "course": [
+    {"@type":"Course","name":"Python Programming","description":"Hands-on Python training for beginners and advanced learners."},
+    {"@type":"Course","name":"C/C++ Programming","description":"Learn C and C++ with projects."},
+    {"@type":"Course","name":"Java Programming","description":"Java training with practical applications."},
+    {"@type":"Course","name":"Web Development","description":"Learn HTML, CSS, JS and build websites."},
+    {"@type":"Course","name":"Data Science","description":"Data Science training with project-based learning."}
+  ],
+  "review": [
+    {"@type":"Review","author":"Rohit S.","reviewBody":"Tech Hub Bathinda helped me turn my coding skills into real projects. Placement support was amazing!","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"}},
+    {"@type":"Review","author":"Simran K.","reviewBody":"Best coding institute in Bathinda. Experienced teachers and practical training.","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"}},
+    {"@type":"Review","author":"Ajay P.","reviewBody":"Flexible batches and hands-on learning made it easy to learn while managing college.","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"}}
+  ],
+  "mainEntity": [
+    {"@type":"Question","name":"What courses are offered?","acceptedAnswer":{"@type":"Answer","text":"Python, C/C++, Java, Web Development, and Data Science training."}},
+    {"@type":"Question","name":"Do you provide placement support?","acceptedAnswer":{"@type":"Answer","text":"Yes, placement guidance and portfolio building."}},
+    {"@type":"Question","name":"Are there flexible batches?","acceptedAnswer":{"@type":"Answer","text":"Yes, multiple batch timings are available."}},
+    {"@type":"Question","name":"Can beginners join?","acceptedAnswer":{"@type":"Answer","text":"Absolutely, suitable for beginners and advanced learners."}}
+  ]
+}
+</script>
+
+<style>
+body { font-family: Arial, sans-serif; margin:0; line-height:1.6; color:#333;}
+header{background:#007BFF;color:white;padding:20px 0;text-align:center; background-image: url('https://techhubbathinda.netlify.app/images/banner.jpg'); background-size:cover; background-position:center;}
+header h1{margin:0;font-size:2em; text-shadow: 2px 2px 4px #000;}
+header p{margin:5px 0; text-shadow:1px 1px 2px #000;}
+nav{background:#f4f4f4;padding:10px 0;text-align:center;}
+nav a{color:#007BFF;margin:0 15px;text-decoration:none;font-weight:bold;}
+nav a:hover{text-decoration:underline;}
+.container{padding:20px;max-width:900px;margin:auto; background:white;}
+.cta{background:#e9f7ff;padding:20px;margin:20px 0;border-left:5px solid #007BFF;}
+h2{color:#007BFF;}
+ul{list-style-type:disc;margin-left:20px;}
+.location, .faq, .testimonials{background:#f4f4f4;padding:20px;margin-top:20px;}
+.location iframe{margin-top:10px;}
+footer{background:#007BFF;color:white;text-align:center;padding:15px 0;margin-top:20px;}
+@media (max-width:600px){header h1{font-size:1.5em;} nav a{display:block;margin:10px 0;}}
+img.course-img{width:100%;max-height:200px;object-fit:cover;margin-top:10px;margin-bottom:10px;}
+</style>
+</head>
+<body>
+<header>
+<h1>Tech Hub Bathinda</h1>
+<p>Learn Coding, Python, Java, Web Development & Data Science in Bathinda</p>
+</header>
+
+<nav>
+<a href="/">Home</a>
+<a href="/courses">Courses</a>
+<a href="/contact">Contact</a>
+<a href="/bathinda">Bathinda</a>
+</nav>
+
+<div class="container">
+<h2>Welcome to Tech Hub Bathinda</h2>
+<p>Just completed your studies at <strong>Allen Institute Bathinda</strong>? Tech Hub Bathinda is your gateway to coding, web development, and data science. Transform your analytical skills into practical tech expertise with hands-on courses.</p>
+
+<div class="cta">
+<h3>Our Courses & Features</h3>
+<img class="course-img" src="https://techhubbathinda.netlify.app/images/python.jpg" alt="Python Course Bathinda">
+<ul>
+<li>Python, C/C++, Java</li>
+<li>Web Development: HTML, CSS, JavaScript</li>
+<li>Data Science & Analytics projects</li>
+<li>Project-based learning to build apps & websites</li>
+<li>Flexible batches & personalized guidance</li>
+<li>Placement support for IT careers</li>
+</ul>
+</div>
+
+<h2>Why Choose Tech Hub Bathinda?</h2>
+<p>We focus on real-world skills and projects. Become a software developer, web designer, or data analyst with experience and confidence. Our courses help you build a strong portfolio and prepare for the IT industry.</p>
+
+<h2>Location</h2>
+<div class="location">
+<p>📍 Opposite PUDA Market, 100 Ft. Road, Bathinda</p>
+<p>🌐 <a href="https://techhubbathinda.netlify.app">techhubbathinda.netlify.app</a></p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3475.000000!2d74.951234!3d30.212345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3910c00000000001%3A0x0000000000000000!2sTech%20Hub%20Bathinda!5e0!3m2!1sen!2sin!4v1708800000000!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
+</div>
+
+<h2>FAQs</h2>
+<div class="faq">
+<h4>1. What courses are offered at Tech Hub Bathinda?</h4>
+<p>We offer Python, C/C++, Java, Web Development, and Data Science training with project-based learning.</p>
+<h4>2. Do you provide placement support?</h4>
+<p>Yes, we assist students in preparing for IT careers with placement guidance and portfolio building.</p>
+<h4>3. Are there flexible batches?</h4>
+<p>Yes, we offer multiple batch timings to suit students’ schedules.</p>
+<h4>4. Can beginners join?</h4>
+<p>Absolutely! Our courses are designed for beginners and advanced learners alike.</p>
+</div>
+
+<h2>Testimonials</h2>
+<div class="testimonials">
+<p><strong>Rohit S.</strong> – "Tech Hub Bathinda helped me turn my coding skills into real projects. Placement support was amazing!"</p>
+<p><strong>Simran K.</strong> – "Best coding institute in Bathinda. Experienced teachers and practical training." </p>
+<p><strong>Ajay P.</strong> – "Flexible batches and hands-on learning made it easy to learn while managing college." </p>
+</div>
+</div>
+
+<footer>
+&copy; 2025 Tech Hub Bathinda | Learn Coding in Bathinda
+</footer>
+</body>
+</html>
