@@ -1,57 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-  <loc>https://techhubbathinda.netlify.app/</loc>
-  <lastmod>2025-04-22T04:00:50+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://techhubbathinda.netlify.app/about</loc>
-  <lastmod>2025-04-22T04:00:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://techhubbathinda.netlify.app/after%20jee.html</loc>
-  <lastmod>2025-04-22T04:00:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://techhubbathinda.netlify.app/career_in_it</loc>
-  <lastmod>2025-04-22T04:00:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://techhubbathinda.netlify.app/computer_basic</loc>
-  <lastmod>2025-04-22T04:00:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://techhubbathinda.netlify.app/java21</loc>
-  <lastmod>2025-04-22T04:00:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://techhubbathinda.netlify.app/java</loc>
-  <lastmod>2025-04-22T04:00:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://techhubbathinda.netlify.app/python</loc>
-  <lastmod>2025-04-22T04:00:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://techhubbathinda.netlify.app/c</loc>
-  <lastmod>2025-04-22T04:00:50+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://techhubbathinda.netlify.app/</loc>
+<lastmod>2026-01-06</lastmod>
+<priority>1.0</priority>
 </url>
 
+<url>
+<loc>https://techhubbathinda.netlify.app/java-training-bathinda</loc>
+<priority>0.9</priority>
+</url>
+
+<url>
+<loc>https://techhubbathinda.netlify.app/python-training-bathinda</loc>
+<priority>0.9</priority>
+</url>
+
+<url>
+<loc>https://techhubbathinda.netlify.app/web-designing-bathinda</loc>
+<priority>0.9</priority>
+</url>
+
+<url>
+<loc>https://techhubbathinda.netlify.app/digital-marketing-bathinda</loc>
+<priority>0.9</priority>
+</url>
+
+<url>
+<loc>https://techhubbathinda.netlify.app/about</loc>
+</url>
+
+<url>
+<loc>https://techhubbathinda.netlify.app/contact</loc>
+</url>
 
 </urlset>
